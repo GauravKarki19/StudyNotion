@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # StudyNotion
 =======
 # Getting Started with Create React App
